@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Positions</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .box {
+            height: 50vh;
+            width: 80vw;
+            padding: 3px;
+            margin: 3px;
+            border: 2px solid black;
+
+        }
+
+        .box1 {
+            background-color: aquamarine;
+            position: absolute;
+           /* position: sticky;
+           top: 0px;
+           height: 111px;
+           width: 100%;
+           margin: 0;
+           padding: 0;
+        } */
+
+
+        .box2 {
+            background-color: coral;
+            /* position: relative;
+            top: 34px;
+            left: 56px; */
+
+
+        }
+
+        .box3 {
+            background-color: lightpink;
+            /* position: sticky;
+            top: 0; */
+            /* position ;
+            bottom: 0px;
+            /* top: 100px; */
+            /* left: 8vw;
+            height: 111px; */ */
+        }
+
+        .box4 {
+            background-color: lightgrey;
+            /* position: fixed; */
+            bottom: 0;
+            right: 0;
+        }
+
+        .Parent {
+            padding: 43px;
+            margin: 34px;
+            border: 3px solid purple;
+            height: 100vh;
+            position: sticky;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="Parent">
+    <div class="box box1">My</div>
+    <div class="box box2">Name </div>
+    <div class="box box3">is</div>
+    <div class="box box4">Khadeeja</div>
+    </div>
+
+</body>
+
+</html>
