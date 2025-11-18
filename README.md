@@ -1,7 +1,7 @@
 # HTML-CSS-JS-UI-
 Frontend Practice — HTML & CSS
 
-Hey! 👋
+Hello!!!
 This repo is where I practice HTML and CSS while learning frontend development. I’ve uploaded small projects and examples to help me get better at building web pages and UI components.
 
 What’s Inside
