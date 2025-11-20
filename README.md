@@ -1,44 +1,44 @@
-# HTML-CSS-JS-UI-
-Frontend Practice — HTML & CSS
+HTML & CSS Practice
 
-Hello!!!
-This repo is where I practice HTML and CSS while learning frontend development. I’ve uploaded small projects and examples to help me get better at building web pages and UI components.
+This repository contains my practice work while learning HTML and CSS.
+I’m keeping my basic exercises here so I can track my progress and stay consistent.
 
-What’s Inside
+📁 What’s Inside?
 
-HTML basics: headings, paragraphs, links, images, lists
+HTML Practice Files
 
-CSS basics: colors, fonts, spacing, backgrounds, borders
+01 – Audio, Video and SVG in HTML
 
-Display properties: block, inline, flex, grid
+02 – Basic Structure of an HTML Website
 
-Text & color styling
+03 – HTML Headings, Paragraphs & Anchor Tags
 
-CSS overflow and shadows
+04 – HTML Tables, Lists & Images
 
-CSS variables
+05 – Inline and Block Elements in HTML
 
-A simple card UI with hover effectsWhy I Made This
+06 – (Reserved for future)
 
-Just a place to practice, experiment, and improve my frontend skills. Learning by doing! 💻
+07 – (Reserved for future)
 
-How to Use
+CSS Practice Files
 
-Clone the repo:
+08 – CSS Display Properties
 
-git clone <https://github.com/Khadeejayaqoob12-cmd/HTML-CSS-JS-UI-/tree/main>
+09 – CSS Text & Color Properties
 
+10 – CSS Overflow
 
-Open any HTML file in your browser
+11 – CSS Position Properties
 
-Explore, play around, and learn
+12 – CSS Shadows
 
-What’s Next
+13 – CSS Variables
 
-More UI components
+🎯 Purpose
 
-Responsive designs
+I created this repo to organize my practice files and strengthen my understanding of frontend basics. Each file covers a specific concept that helps me slowly build confidence in HTML and CSS.
 
-JavaScript projects
+🚀 Future Updates
 
-Portfolio-ready stuff
+I will keep adding new practice files as I learn more concepts.
