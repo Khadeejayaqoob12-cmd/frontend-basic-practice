@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Object- fit & POsition</title>
+    <style>
+        .container{
+            height: 388px;
+            width: 366px;
+            border: 5px solid black;
+            /* background-color: azure; */
+            background-position: center center;
+            background-image: url('com.png');
+        }
+        img{
+            height: 388px;
+            width: 366px;
+            object-fit: contain;
+            /* object-fit: fill; */
+            object-position: 10px 20px;
+            /* object-position: bottom right; */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- <img src="com.png" alt=""> -->
+    </div>
+</body>
+</html>
